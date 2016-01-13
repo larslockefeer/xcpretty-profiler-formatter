@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    xcpretty-profiler-formatter (0.0.1)
+      xcpretty (~> 0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rouge (1.10.1)
+    xcpretty (0.2.2)
+      rouge (~> 1.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.3)
+  xcpretty-profiler-formatter!
+
+BUNDLED WITH
+   1.10.6
